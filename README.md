@@ -5,11 +5,15 @@
 [![License](https://img.shields.io/cocoapods/l/GIFFromImages.svg?style=flat)](https://cocoapods.org/pods/GIFFromImages)
 [![Platform](https://img.shields.io/cocoapods/p/GIFFromImages.svg?style=flat)](https://cocoapods.org/pods/GIFFromImages)
 
-## Example
+## Learn how to use / how to create
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
 
 ## Requirements
+
+| Platform | Installation |
+| --- | --- |
+| iOS 12.0+ | [CocoaPods](#cocoapods) |
 
 ## Installation
 
@@ -18,6 +22,7 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod 'GIFFromImages'
+:git => 'https://github.com/Murmeko/GIFFromImages.git'
 ```
 
 ## Author

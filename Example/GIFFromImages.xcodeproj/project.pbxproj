@@ -212,10 +212,12 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = 927YGY67XQ;
 						LastSwiftMigration = 1250;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = 927YGY67XQ;
 						LastSwiftMigration = 1250;
 						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
@@ -483,6 +485,7 @@
 			baseConfigurationReference = 878E68280F65E8644B4038ED /* Pods-GIFFromImages_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 927YGY67XQ;
 				INFOPLIST_FILE = GIFFromImages/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -498,6 +501,7 @@
 			baseConfigurationReference = 71E28ED2A27E3D9CF8B21A25 /* Pods-GIFFromImages_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 927YGY67XQ;
 				INFOPLIST_FILE = GIFFromImages/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -512,6 +516,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5DCB8AE8662F63DB6FFC5381 /* Pods-GIFFromImages_Tests.debug.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 927YGY67XQ;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -534,6 +539,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 16D6297D3574BD0DBDC4BF15 /* Pods-GIFFromImages_Tests.release.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 927YGY67XQ;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
