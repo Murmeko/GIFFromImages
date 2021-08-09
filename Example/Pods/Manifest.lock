@@ -1,0 +1,16 @@
+PODS:
+  - GIFFromImages (0.1.0)
+
+DEPENDENCIES:
+  - GIFFromImages (from `../`)
+
+EXTERNAL SOURCES:
+  GIFFromImages:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GIFFromImages: 8e5eceb5e1066276658cc4a94444268759b3a073
+
+PODFILE CHECKSUM: 380089afe64fab56c5373035e8b0c0c08b2ec7ff
+
+COCOAPODS: 1.10.2
