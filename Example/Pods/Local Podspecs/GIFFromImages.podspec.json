@@ -1,0 +1,22 @@
+{
+  "name": "GIFFromImages",
+  "version": "0.1.0",
+  "summary": "A short description of GIFFromImages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Murmeko/GIFFromImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Murmeko": "yigiterdinc@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Murmeko/GIFFromImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GIFFromImages/Classes/**/*"
+}
