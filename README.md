@@ -1,6 +1,6 @@
 # GIFFromImages
 
-[![CI Status](https://img.shields.io/travis/Murmeko/GIFFromImages.svg?style=flat)](https://travis-ci.org/Murmeko/GIFFromImages)
+[![Build Status](https://travis-ci.com/Murmeko/GIFFromImages.svg?branch=master)](https://travis-ci.com/Murmeko/GIFFromImages)
 [![Version](https://img.shields.io/cocoapods/v/GIFFromImages.svg?style=flat)](https://cocoapods.org/pods/GIFFromImages)
 [![License](https://img.shields.io/cocoapods/l/GIFFromImages.svg?style=flat)](https://cocoapods.org/pods/GIFFromImages)
 [![Platform](https://img.shields.io/cocoapods/p/GIFFromImages.svg?style=flat)](https://cocoapods.org/pods/GIFFromImages)
