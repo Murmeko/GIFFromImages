@@ -7,7 +7,13 @@
 
 ## Learn how to use / how to create
 
+### English
+[Medium](https://medium.com/@yigiterdinc/ios-app-development-publishing-a-cocoapods-library-that-converts-images-to-gifs-with-swift-326356ee000f)
 
+[Dev.to](https://dev.to/murmeko/ios-app-development-publishing-a-cocoapods-library-that-converts-images-to-gifs-with-swift-5ckm)
+
+### Turkish
+[Medium](https://medium.com/@yigiterdinc/ios-uygulama-geli%C5%9Ftirme-swift-ile-resimleri-gife-%C3%A7eviren-bir-cocoapods-k%C3%BCt%C3%BCphanesi-yay%C4%B1nlamak-d5d973e31966)
 
 ## Requirements
 
