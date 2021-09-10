@@ -8,6 +8,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/8a266448eda832592016/test_coverage)](https://codeclimate.com/github/Murmeko/GIFFromImages/test_coverage)
 [![License](https://img.shields.io/cocoapods/l/GIFFromImages.svg?style=flat)](https://cocoapods.org/pods/GIFFromImages)
 
+GIFFromImages is an opensource Swift library that converts UIImage arrays to GIF images.
 
 ## Requirements
 
